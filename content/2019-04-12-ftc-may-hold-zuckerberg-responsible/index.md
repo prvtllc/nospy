@@ -1,0 +1,12 @@
+---
+title: "FTC May Hold Zuckerberg Personally Responsible For Facebook Privacy Failures"
+path: blog/ftc-may-hold-zuckerberg-responsible
+tags: [usa, cyber]
+cover: ./facebook_logo.jpg
+date: 2019-04-12
+excerpt: According to NBC, FTC officials are discussing whether and how to hold Facebook Chief Executive Mark Zuckerberg personally accountable for the company's history of mismanaging users private data. However, NBC said its sources "wouldn't elaborate on what measures are specifically under consideration.
+---
+
+Federal Trade Commission officials are [discussing whether to hold Facebook CEO Mark Zuckerberg personally accountable for Facebook's privacy failures](https://arstechnica.com/tech-policy/2019/04/ftc-may-hold-zuckerberg-personally-responsible-for-facebook-privacy-failures/), according to reports by [The Washington Post](https://www.washingtonpost.com/technology/2019/04/19/federal-investigation-facebook-could-hold-mark-zuckerberg-accountable-privacy-sources-say/) and [NBC News](https://www.nbcnews.com/tech/tech-news/u-s-looking-ways-hold-zuckerberg-accountable-facebook-s-problems-n996231). Facebook has been trying to protect Zuckerberg from that possibility in negotiations with the FTC, the Post wrote. Federal regulators investigating Facebook are "exploring his past statements on privacy and weighing whether to seek new, heightened oversight of his leadership," the Post reported, citing anonymous sources who are familiar with the FTC discussions. "The discussions about how to hold Zuckerberg accountable for Facebook's data lapses have come in the context of wide-ranging talks between the Federal Trade Commission and Facebook that could settle the government's more than year-old probe," the Post wrote. 
+
+According to NBC, FTC officials are "discussing whether and how to hold Facebook Chief Executive Mark Zuckerberg personally accountable for the company's history of mismanaging users' private data." However, NBC said its sources "wouldn't elaborate on what measures are specifically under consideration." According to the Post, one idea raised during the probe "could require [Zuckerberg] or other executives to certify the company's privacy practices periodically to the board of directors." But it's not clear how likely the FTC is to target Zuckerberg in a final settlement, and "Facebook has fought fiercely to shield Zuckerberg as part of the negotiations, one of the sources familiar with the probe said," the Post wrote.

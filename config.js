@@ -1,13 +1,13 @@
 
 module.exports = {
   pathPrefix: '/gatsby-starter-developer-blog',
-  siteUrl: 'https://lgcolella.github.io',
+  siteUrl: 'https://www.github.com',
   siteTitle: 'NON SPY',
   siteDescription: 'A Site To Discuss All Spying and Spies',
-  author: 'lcolella',
+  author: 'non spy',
   postsForArchivePage: 3,
   defaultLanguage: 'en',
-  disqusScript: 'https://luigi-colella.disqus.com/embed.js',
+  disqusScript: 'https://nonspy.disqus.com/embed.js',
   pages: {
     home: '/',
     blog: 'blog',
@@ -16,7 +16,7 @@ module.exports = {
     archive: 'archive'
   },
   social: {
-    github: 'https://github.com/lgcolella',
+    github: 'https://github.com/',
     linkedin: '',
     rss: '/rss.xml'
   },
@@ -26,6 +26,18 @@ module.exports = {
     },
     electron: {
       description: 'Electron is a framework for building cross-platform desktop applications with web technology.'
+    },
+    russia: {
+      description: 'Posts about Russia spying.'
+    },
+    usa: {
+      description: 'Posts about United States spying.'
+    },
+    trump: {
+      description: 'Spying posts related to Donald Trump.'
+    },
+    cyber: {
+      description: 'Spying posts related to cyber security.'
     },
     javascript: {
       description: 'JavaScript is an object-oriented programming language used alongside HTML and CSS to give functionality to web pages.'
