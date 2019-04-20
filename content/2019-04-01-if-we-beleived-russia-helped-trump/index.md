@@ -2,8 +2,9 @@
 title: If We Beleived Russia Helped Trump Win The Election.
 date: 2019-04-01
 path: blog/if-we-beleived-russia-helped-trump
+tags: [javascript, react, electron, nodejs]
 cover: ./Russia.jpg
-excerpt: Build a fantastic Electron app from scratch using create-react-app.
+excerpt: We are still going through the piles of evidence and comparing it to spycraft (which we of course know nothing about). But, we have heard the arguments in favor of the spying case and are here to write a quick nonspy article from the perspective of one who thinks that the Russians did in fact help Trump. 
 ---
 We are not saying that Russian hackers and Russian spies helped Trump defeat Hilary Clinton.  That is a complicated question which is not easy to answer.  We are still going through the piles of evidence and comparing it to spycraft (which we of course know nothing about). But, we have heard the arguments in favor of the spying case and are here to write a quick nonspy article from the perspective of one who thinks that the Russians did in fact help Trump.  Here it goes..
 

@@ -2,8 +2,8 @@
 module.exports = {
   pathPrefix: '/gatsby-starter-developer-blog',
   siteUrl: 'https://lgcolella.github.io',
-  siteTitle: 'Luigi Colella',
-  siteDescription: 'Logbook of a software developer',
+  siteTitle: 'NON SPY',
+  siteDescription: 'A Site To Discuss All Spying and Spies',
   author: 'lcolella',
   postsForArchivePage: 3,
   defaultLanguage: 'en',
