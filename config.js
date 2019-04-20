@@ -10,7 +10,7 @@ module.exports = {
   disqusScript: 'https://nonspy.disqus.com/embed.js',
   pages: {
     home: '/',
-    blog: 'blog',
+    blog: '/',
     about: 'about',
     tag: 'tag',
     archive: 'archive'

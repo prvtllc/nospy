@@ -2,7 +2,7 @@
 title: NYC Subway Denies Using Real-Time Face Recognition Screens in Times Square
 tags: [cyber, usa]
 date: 2019-04-15T05:25:44.226Z
-path: blog/nyc-subway-denies-using-face-recognition
+path: /nyc-subway-denies-using-face-recognition
 cover: ./timesquare.jpg
 excerpt: Young says that the recordings arent being monitored to identify individuals in the footage, though. There is absolutely no facial recognition component to these cameras, no facial recognition software, or anything else that could be used to automatically identify people in any way.
 ---

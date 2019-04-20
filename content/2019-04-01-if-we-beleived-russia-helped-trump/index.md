@@ -1,7 +1,7 @@
 ---
 title: If We Believed Russia Helped Trump Win The Election.
 date: 2019-04-01
-path: blog/if-we-believed-russia-helped-trump
+path: /if-we-believed-russia-helped-trump
 tags: [usa, trump, russia, cyber]
 cover: ./Russia.jpg
 excerpt: We are still going through the piles of evidence and comparing it to spycraft (which we of course know nothing about). But, we have heard the arguments in favor of the spying case and are here to write a quick nonspy article from the perspective of one who thinks that the Russians did in fact help Trump. 

@@ -1,6 +1,6 @@
 ---
 title: "FTC May Hold Zuckerberg Personally Responsible For Facebook Privacy Failures"
-path: blog/ftc-may-hold-zuckerberg-responsible
+path: /ftc-may-hold-zuckerberg-responsible
 tags: [usa, cyber]
 cover: ./facebook_logo.jpg
 date: 2019-04-12

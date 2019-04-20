@@ -5,7 +5,7 @@
 </p>
 
 [![Build Status](https://travis-ci.org/lgcolella/gatsby-starter-developer-blog.svg?branch=master)](https://travis-ci.org/lgcolella/gatsby-starter-developer-blog)
-[![Maintainability](https://api.codeclimate.com/v1/badges/a682a525a8c3f78b625f/maintainability)](https://codeclimate.com/github/lgcolella/gatsby-starter-developer-blog/maintainability)
+[![Maintainability](https://api.codeclimate.com/v1/badges/a682a525a8c3f78b625f/maintainability)](https://codeclimate.com/github/lgcolella/gatsby-starter-developer-/maintainability)
 
 ## Summary
 
@@ -17,11 +17,11 @@
 
 ## 🔧 Stack
 
-[![Gatsby JS](https://github.com/lgcolella/gatsby-starter-blog/raw/master/repository/gatsby.png "Gatsby JS")](https://www.gatsbyjs.org/)
-[![React JS](https://github.com/lgcolella/gatsby-starter-blog/raw/master/repository/react.png "React JS")](https://reactjs.org/)
-[![Less](https://github.com/lgcolella/gatsby-starter-blog/raw/master/repository/less.png "Less")](http://lesscss.org/)
-[![GraphQL](https://github.com/lgcolella/gatsby-starter-blog/raw/master/repository/graphql.png "GraphQL")](https://graphql.org/)
-[![TravisCI](https://github.com/lgcolella/gatsby-starter-blog/raw/master/repository/travis.png "TravisCI")](https://travis-ci.org/)
+[![Gatsby JS](https://github.com/lgcolella/gatsby-starter-/raw/master/repository/gatsby.png "Gatsby JS")](https://www.gatsbyjs.org/)
+[![React JS](https://github.com/lgcolella/gatsby-starter-/raw/master/repository/react.png "React JS")](https://reactjs.org/)
+[![Less](https://github.com/lgcolella/gatsby-starter-/raw/master/repository/less.png "Less")](http://lesscss.org/)
+[![GraphQL](https://github.com/lgcolella/gatsby-starter-/raw/master/repository/graphql.png "GraphQL")](https://graphql.org/)
+[![TravisCI](https://github.com/lgcolella/gatsby-starter-/raw/master/repository/travis.png "TravisCI")](https://travis-ci.org/)
 
 ## 🔌 Features
 
@@ -88,7 +88,7 @@ Here a table for list them and explain how use each one.
 *Example*
 ```
 title: My new blog post
-path: blog/my-new-blog-post
+path: /my-new-blog-post
 date: 2019-01-20
 tags: [technology, seo, writing]
 excerpt: In this post we'll see a post example...
