@@ -1,7 +1,6 @@
 ---
 title: If We Beleived Russia Helped Trump Win The Election.
 date: 2019-04-01
-tags: [Russia, Hacking, Donald Trump, US Elections]
 path: blog/if-we-beleived-russia-helped-trump
 cover: ./Russia.jpg
 excerpt: Build a fantastic Electron app from scratch using create-react-app.
