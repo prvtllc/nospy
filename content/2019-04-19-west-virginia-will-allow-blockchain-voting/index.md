@@ -1,6 +1,6 @@
 ---
 title: West Virginia Will Allow Blockchain Voting 
-date: 2019-14-19
+date: 2019-04-19
 tags: [cyber, usa]
 path: /west-virginia-will-allow-blockchain-voting
 cover: ./westvirginia.jpg
